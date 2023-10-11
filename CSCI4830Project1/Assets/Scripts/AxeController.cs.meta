@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 172301e0bbc08431d83748defa5423b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brokenObject: {fileID: 919132149155446097, guid: 4c1dc43965454f54f816ff21285c0be3, type: 3}
+  - crackBox1: {fileID: 919132149155446097, guid: 6a35f14887b30154a982441a48eed72f, type: 3}
+  - crackBox2: {fileID: 919132149155446097, guid: 0db07e668c70a7142b4276740702d086, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
