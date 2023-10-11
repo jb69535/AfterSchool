@@ -1,6 +1,6 @@
-# project-1-ghostbusters
+# 🏫 AfterSchool 🏫
 
-project-1-ghostbusters created by GitHub Classroom
+<img src="https://github.com/csci48306830fa23/project-1-ghostbusters/assets/92282867/94bf1faa-d087-473d-ad5f-32dedc601c13" width="500" height="500" alt="AfterSchool">
 
 ## * Group Members 
 
